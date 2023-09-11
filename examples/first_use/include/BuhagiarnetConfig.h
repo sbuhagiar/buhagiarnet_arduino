@@ -18,12 +18,12 @@
 //#define WROOM
 
 // Step 2. Alter SSIDx to match your own SSID - Double quotes around SSIDx are required
-#define SSID1 "WilbursWifi"
-#define SSID2 "ComputrolWifi"
-#define SSID3 "Computrol"
+#define SSID1 "examplessid1"
+#define SSID2 "examplessid2"
+#define SSID3 "examplessid3"
 
 // Step 3. Alter PWDx to match your Wifi passwords that correspond to SSIDx - Double quotes around PWDx are required
-#define PWD1 "Battlekat"
-#define PWD2 "compwireless"
-#define PWD3 "compwireless"
+#define PWD1 "examplepword1"
+#define PWD2 "examplepword2"
+#define PWD3 "examplepwrod3"
 
