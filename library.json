@@ -1,0 +1,26 @@
+{
+    "name": "Buhagiarnet",
+    "version": "1.0.0",
+    "description": "Helper functions to easily connect to a Wifi network using ESP devices.",
+    "keywords": "wifi, esp, helper",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/sbuhagiar/buhagiarnet_arduino"
+    },
+    "authors":
+    [
+      {
+        "name": "Steven Buhagiar",
+        "email": "libs@buhagiarnet.com",
+        "url": "https://github.com/sbuhagiar/",
+        "maintainer": true
+      }
+    ],
+    "license": "MIT",
+    "homepage": "",
+    "dependencies": {
+    },
+    "frameworks": "*",
+    "platforms": "*"
+  }
